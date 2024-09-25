@@ -52,8 +52,7 @@ Before continuing, make sure that these tasks are completed!
 
 **Deployment Technical Requirements**
 
-- [ ] Your server is deployed and the link is added to this repo's README
-Deployed Link says "Fetch failed. 404"
+- [x] Your server is deployed and the link is added to this repo's README
 
 You got this!
 
